@@ -52,5 +52,6 @@ This dashboard serves as a quick and interactive way to explore accident data an
 
 ### 📁 Repository Contents
 
-* `Road_Accident_Dashboard.xlsx` – The main Excel dashboard file
-* `Screenshot.png` – Dashboard preview
+- [ Download Excel Dashboard](Roas%20Accident%20Dashboard.xlsx)  
+- [ Dashboard Screenshot 1](Dashboard%201.JPG)  
+- [ Dashboard Screenshot 2](Dashboard%202.JPG)  
