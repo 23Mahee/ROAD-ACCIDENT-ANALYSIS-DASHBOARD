@@ -1,2 +1,56 @@
-# ROAD-ACCIDENT-ANALYSIS-DASHBOARD
-An interactive Excel dashboard analyzing road accident data. Includes KPIs, slicers, and timelines to explore casualties by road type, location, vehicle type, and surface condition. Clickable icons allow quick navigation to the dashboard, data sheet, and official road casualty web page.
+# 🚦 Road Accident Analysis Dashboard (Excel)
+
+This project presents an **interactive Excel dashboard** that analyzes road accident data to uncover key insights and trends in road casualties.
+
+### 📊 Dashboard Overview
+
+The dashboard provides a comprehensive summary of road accident statistics using **key performance indicators (KPIs)** and dynamic visuals.
+
+**Key Highlights:**
+
+* **Total Casualties:** 417,883
+* **Fatal Casualties:** 7,135 (1.7%)
+* **Serious Casualties:** 59,312 (14.2%)
+* **Slight Casualties:** 351,436 (84.1%)
+
+### 🧩 Features
+
+* **Interactive Timeline & Slicer** – Filter data by **Accident Date** and **Location (Rural/Urban)**
+* **Clickable Navigation Icons** – Linked icons on the left side direct users to:
+
+  * 📊 Dashboard view
+  * 📁 Data analysis sheet
+  * 🌐 Web page on *Reported Road Casualties in Great Britain*
+* **Visual Insights** on:
+
+  * Casualties by Road Type
+  * Casualties by Vehicle Type
+  * Casualties by Road Surface Condition
+  * Day vs Night distribution
+  * CY vs PY Casualties comparison
+
+### ⚙️ Tools & Techniques
+
+* **Software:** Microsoft Excel
+* **Features Used:** Pivot tables, charts, slicers, timelines, hyperlinks, and data visualization
+* **Design Style:** Clean, modern layout with dark background and accent colors for clarity and visual appeal
+
+### 📈 Insights
+
+* Most casualties occurred on **single carriageway roads**.
+* **Cars** contributed to the highest number of casualties.
+* Accidents were more frequent during **daylight hours**.
+* Casualties were notably higher in **urban areas** than in rural ones.
+
+---
+
+### 💡 Purpose
+
+This dashboard serves as a quick and interactive way to explore accident data and identify high-risk areas, vehicle types, and road conditions that contribute to road safety issues.
+
+---
+
+### 📁 Repository Contents
+
+* `Road_Accident_Dashboard.xlsx` – The main Excel dashboard file
+* `Screenshot.png` – Dashboard preview
